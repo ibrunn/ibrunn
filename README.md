@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **n8n, supabase, qdrant, d3.js**
 
+- 💬 Ask me about **translating complexity into simplicity, uniting stakeholders around a shared vision so technologies don’t just go live…**
+
 - 📫 How to reach me **repo@public-files.de**
 
 <h3 align="left">Connect with me:</h3>
